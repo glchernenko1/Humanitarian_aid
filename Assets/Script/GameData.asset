@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38fab2638aac70240baf5786d6ca2086, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  resetOnStart: 0
+  level: 1
+  balls: 1
+  points: 1340
+  music: 1
+  sound: 1
+  pointsToBall: 140
+  bonusNot: 0.2
+  bonusFire: 0.1
+  bonusSteel: 0.1
+  bonusPlus: 0.1
+  bonusNorm: 0.1
+  bonusBomb: 0.1
+  bonusSimple: 0.1
+  bonusGun: 0.1
+  bonusCannon: 0.1
+  NamePlayer: 123
+  bestPlayer:
+  - name         20
+  - name         15
+  - name         10
+  - name         5
+  - ' name        1'
+  isFinsh: 0
